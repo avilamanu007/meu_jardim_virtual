@@ -24,7 +24,6 @@ Autenticação: login e registro de usuários.
 
 
 Tecnologias
-
 --------------------------------------------------------------
 
 Backend: PHP puro
