@@ -1,10 +1,14 @@
 Meu Jardim Virtual
+--------------------------------------------------------------
 
 Desenvolvido por: Emanuelle de Avila - RA 2509814
 
 Sistema web para gerenciamento de plantas domésticas, permitindo cadastro, registro de cuidados e lembretes automáticos.
---------------------------------------------------------------
+
+
 Funcionalidades
+--------------------------------------------------------------
+
 
 Cadastro de Plantas: nome, espécie, data de aquisição, localização, frequência de rega e notas.
 
@@ -17,16 +21,22 @@ Dashboard: visão geral de cuidados do dia, próximos cuidados e estatísticas.
 Lista de Plantas: tabela com informações e ações.
 
 Autenticação: login e registro de usuários.
-------------------------------------------------------------
+
+
 Tecnologias
+
+--------------------------------------------------------------
 
 Backend: PHP puro
 
 Banco de Dados: MySQL
 
 Frontend: HTML5, CSS3, JavaScript, Tailwind
------------------------------------------------------------
+
+
 Instalação
+--------------------------------------------------------------
+
 Pré-requisitos
 
 Servidor web (Apache/XAMPP/WAMP)
@@ -59,8 +69,10 @@ define('DB_PASS', 'sua_senha');
 
 
 Acesse no navegador: http://localhost/meu_jardim_virtual e registre um usuário.
------------------------------------------------------------
+
+
  Melhorias Futuras
+--------------------------------------------------------------
 
 Relatórios avançados e gráficos
 
